@@ -1,0 +1,29 @@
+name: mi_card_actual
+description: A new Flutter project.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.0.5 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - images/
+  fonts:
+    - family: Laxend
+      fonts:
+        - asset: fonts/LexendPeta-VariableFont_wght.ttf
+    - family: Caprasimo
+      fonts:
+        - asset: fonts/Caprasimo-Regular.ttf
+  
