@@ -1,3 +1,2 @@
-# mi_card_actual
-
-A new Flutter project.
+# Info Card Flutter Udemy
+Business card made with udemy
