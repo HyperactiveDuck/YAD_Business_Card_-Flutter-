@@ -79,7 +79,7 @@ class MyApp extends StatelessWidget {
                     color: Colors.white,
                   ),
                   title: Text(
-                    '*************arda@gmail.com',
+                    '*****fasfs**arda@gmail.com',
                     style: TextStyle(
                       color: Colors.white,
                       fontSize: 15,
